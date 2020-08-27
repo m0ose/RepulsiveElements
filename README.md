@@ -4,7 +4,7 @@ Cody Smith 2020
 
 
 ## Example ##
-    Check out the [demo](https://m0ose.gihubio.com/RepulsiveElements)
+    A (demo)[https://m0ose.gihubio.com/RepulsiveElements] is worth a thousand words. 
 
 ## Usage ##
 ``` javascript
