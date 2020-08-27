@@ -2,10 +2,13 @@
 Move elements away from the mouse
 Cody Smith 2020
 
+ 
 
 ## Example ##
-    A (demo)[https://m0ose.gihubio.com/RepulsiveElements] is worth a thousand words. 
-
+A 
+[demo](https://m0ose.gihubio.com/RepulsiveElements)
+ is worth a thousand words.
+ 
 ## Usage ##
 ``` javascript
 new RepulsiveElements(document.getElementById('someElement')) 
