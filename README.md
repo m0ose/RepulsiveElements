@@ -6,7 +6,7 @@ Cody Smith 2020
 
 ## Example ##
 A 
-[demo](https://m0ose.gihubio.com/RepulsiveElements)
+[demo](https://m0ose.github.io/RepulsiveElements/)
  is worth a thousand words.
  
 ## Usage ##
